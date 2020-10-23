@@ -16,5 +16,5 @@ request-coupon-disabled: false
 
 
 database:
-  password: {ciper}55e81e27dcdafeb8e0fa8419ce0580e78ba04ff5b068b02706fc91f8e419a7ab
-  password2: {ciper}2c8128c2d1f667bd6f17afcdd5b91c5cf1453f014277d1af1494511aa28af253
+  password: '{cipher}55e81e27dcdafeb8e0fa8419ce0580e78ba04ff5b068b02706fc91f8e419a7ab'
+  password2: '{cipher}2c8128c2d1f667bd6f17afcdd5b91c5cf1453f014277d1af1494511aa28af253'
