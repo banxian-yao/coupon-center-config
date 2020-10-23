@@ -12,7 +12,7 @@ management:
     enabled: false
 
 
-request-coupon-disabled: true
+request-coupon-disabled: false
 
 
 database:
